@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Gauri
 
-<!--
-**Gaurinavale/Gaurinavale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student learning Java backend development.
+Currently focusing on core Java, OOP concepts, database fundamentals,
+JDBC, Spring, and Spring Boot.
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- Core Java (OOPs)
+- SQL and Database fundamentals
+- JDBC
+- Spring Framework
+- Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 What I'm doing right now
+- Practicing Java programs and OOP concepts
+- Learning database connectivity using JDBC
+- Exploring Spring Boot for backend development
+
+🎯 Goal
+- Become a backend Java developer and build real-world application
